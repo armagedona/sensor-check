@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Analyser()
+comment1.params=location\ value
+comment1.target=void\ addSample(java.lang.String,\ int)
+comment1.text=\r\n\ Add\ a\ new\ Sample\ with\ the\ Location\ and\ the\ value\ to\ the\ list.\r\n\ The\ Value\ is\ in\ Kelvin\ and\ has\ to\ be\ greater\ than\ 0.\r\n\ @param\ sample\ A\ smaple\ to\ be\ stored.\r\n
+comment2.params=
+comment2.target=void\ populate()
+comment2.text=\r\n\ A\ method\ that\ populates\ the\ colection.\r\n
+comment3.params=
+comment3.target=void\ printSamples()
+comment3.text=\r\n\ This\ prints\ all\ the\ samples\ in\ the\ collection\ along\ with\ the\ locations.\r\n
+comment4.params=
+comment4.target=void\ findMax()
+comment4.text=\r\n\ Finding\ the\ Maximum\ Temperature\r\n
+comment5.params=
+comment5.target=void\ findFaultySensors()
+comment5.text=\r\n\ Finding\ Fauty\ Sensors.\ \r\n
+comment6.params=
+comment6.target=void\ populateFautySensors()
+comment6.text=\r\n\ Populationg\ a\ list\ with\ the\ Fauty\ Sensors.\r\n
+comment7.params=
+comment7.target=void\ overheat()
+comment7.text=\r\n\ Printing\ the\ overheated\ locations.\r\n
+numComments=8
